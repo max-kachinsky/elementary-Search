@@ -43,7 +43,7 @@ require 'header.php';
 				<li><a class="change-search" href="#change-search">Изменить</a>
 					<ul>
 						<li><a class="change-to-google" href="#change-to-google">Google</a></li>
-						<li><a class="change-to-bing" href="#change-to-bings">Bing</a></li>
+						<li><a class="change-to-bing" href="#change-to-bing">Bing</a></li>
 						<li><a class="change-to-duckduckgo" href="#change-to-duckduckgo">DuckDuckGo</a></li>
 					</ul>
 				</li>
