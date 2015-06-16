@@ -1,5 +1,5 @@
 <?php
-$Meta = '<title>elementary Search</title>';
+$Meta = '<title>elementary start</title>';
 require 'header.php';
 ?>
 			<form id="search" action="<?php if (isset($_COOKIE['allow_cookies']) && $_COOKIE['allow_cookies'] == 1 && isset($_COOKIE['default_search'])) {
